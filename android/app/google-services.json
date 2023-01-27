@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "191310674371",
+    "firebase_url": "https://allthewayhome-b3ee9-default-rtdb.firebaseio.com",
+    "project_id": "allthewayhome-b3ee9",
+    "storage_bucket": "allthewayhome-b3ee9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191310674371:android:45aa3a4fa70d3af086a576",
+        "android_client_info": {
+          "package_name": "com.allthewayhome.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191310674371-jedsdsi1qfakg4p2l6fd3e4r50ifhe8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_AGN94O41y7DxugoWZMH-lTokU9DDNhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191310674371-jedsdsi1qfakg4p2l6fd3e4r50ifhe8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

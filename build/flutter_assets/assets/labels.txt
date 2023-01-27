@@ -1,0 +1,6 @@
+README.md
+anscombe.json
+mnist_train_small.csv
+california_housing_train.csv
+mnist_test.csv
+california_housing_test.csv

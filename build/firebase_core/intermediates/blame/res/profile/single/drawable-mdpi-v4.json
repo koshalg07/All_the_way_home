@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\kosha\\Downloads\\all_the_way_home-v1.0.6\\build\\firebase_core\\intermediates\\res\\merged\\profile\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\kosha\\.gradle\\caches\\transforms-2\\files-2.1\\5ad483c8627e4b8a64c3ca3965603cc9\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\kosha\\Downloads\\all_the_way_home-v1.0.6\\build\\firebase_core\\intermediates\\res\\merged\\profile\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\kosha\\.gradle\\caches\\transforms-2\\files-2.1\\5ad483c8627e4b8a64c3ca3965603cc9\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\kosha\\Downloads\\all_the_way_home-v1.0.6\\build\\firebase_core\\intermediates\\res\\merged\\profile\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\kosha\\.gradle\\caches\\transforms-2\\files-2.1\\5ad483c8627e4b8a64c3ca3965603cc9\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\kosha\\Downloads\\all_the_way_home-v1.0.6\\build\\firebase_core\\intermediates\\res\\merged\\profile\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\kosha\\.gradle\\caches\\transforms-2\\files-2.1\\5ad483c8627e4b8a64c3ca3965603cc9\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\kosha\\Downloads\\all_the_way_home-v1.0.6\\build\\firebase_core\\intermediates\\res\\merged\\profile\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\kosha\\.gradle\\caches\\transforms-2\\files-2.1\\5ad483c8627e4b8a64c3ca3965603cc9\\core-1.6.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    }
+]

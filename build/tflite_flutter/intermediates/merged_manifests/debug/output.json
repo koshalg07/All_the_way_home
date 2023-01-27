@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "applicationId": "com.tfliteflutter.tflite_flutter_plugin",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": -1,
+        "outputFile": "tflite_flutter-debug.aar",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "../../library_manifest/debug/AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.tfliteflutter.tflite_flutter_plugin",
+        "split": ""
+      }
+    }
+  ]
+}
